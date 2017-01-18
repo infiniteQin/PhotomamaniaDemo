@@ -19,9 +19,7 @@ struct Five100px {
   }
     
     private enum AuthInfo : String {
-        case ConsumerKey = "NZRCttbpSfjgnCt9EiYXRBvCOMomPlyPgOJ7YuEU"
-        //    case ConsumerKey = "NZRCttbpSfjgnCt9EiYXRBvCOMomPlyPgOJ7YuEU",
-        //    case ConsumerKey = "NZRCttbpSfjgnCt9EiYXRBvCOMomPlyPgOJ7YuEU",
+        case ConsumerKey = "xxxxxxxxx"
     }
     
     private enum PhotosFeature : String {
